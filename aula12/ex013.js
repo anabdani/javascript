@@ -11,19 +11,19 @@ switch(diaSem) {
         console.log('segunda')
         break
       case 2 :
-            console>log('Terça')
+            console.log('Terça')
             break
      case 3 :
-             console>log('Quarta')
+             console.log('Quarta')
              break
      case 4 :
-             console>log('Quinta')
+             console.log('Quinta')
              break
      case 5 :
-             console>log('Sexta')
+             console.log('Sexta')
              break
      case 6:
-          console>log('Sábado')
+          console.log('Sábado')
           break 
           
           default:
